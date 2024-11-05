@@ -352,7 +352,7 @@
             "Extract hashes",
             "Regular expression",
             "XPath expression",
-            "XQuery expression",
+            "XQuery Evaluation",
             "JPath expression",
             "CSS selector",
             "Extract EXIF",
